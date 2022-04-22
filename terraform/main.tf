@@ -1,4 +1,4 @@
-module "towerworkload1@mailbox.org" {
+module "towerworkload1" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
